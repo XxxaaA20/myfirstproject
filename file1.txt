@@ -1,3 +1,6 @@
 Hello World!
 Hello City!
 Hello somebody
+Add new line1
+Add new line 2
+Do something else...
